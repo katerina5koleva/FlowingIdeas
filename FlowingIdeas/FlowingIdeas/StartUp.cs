@@ -14,7 +14,11 @@ namespace FlowingIdeas
         {
             Display display = new Display();
             ApplicationConfiguration.Initialize();
-            Application.Run(new FlowingIdeasForm());
+            Application.Run(new IdeasFlow());
         }
     }
+//<<<<<<< Updated upstream
 }//Test :)
+//=======
+
+//>>>>>>> Stashed changes
