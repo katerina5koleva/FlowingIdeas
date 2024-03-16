@@ -3644,24 +3644,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pc\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\katik\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeas\\FlowingIdeas\\FlowingIdeas\\FlowingIdeas.csproj",
+      "projectUniqueName": "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas\\FlowingIdeas\\FlowingIdeas\\FlowingIdeas\\FlowingIdeas.csproj",
       "projectName": "FlowingIdeas",
-      "projectPath": "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeas\\FlowingIdeas\\FlowingIdeas\\FlowingIdeas.csproj",
-      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeas\\FlowingIdeas\\FlowingIdeas\\obj\\",
+      "projectPath": "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas\\FlowingIdeas\\FlowingIdeas\\FlowingIdeas\\FlowingIdeas.csproj",
+      "packagesPath": "C:\\Users\\katik\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas\\FlowingIdeas\\FlowingIdeas\\FlowingIdeas\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\katik\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3669,15 +3664,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeas\\FlowingIdeas\\FlowingIdeasTest\\FlowingIdeasTest.csproj": {
-              "projectPath": "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeas\\FlowingIdeas\\FlowingIdeasTest\\FlowingIdeasTest.csproj"
+            "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas\\FlowingIdeas\\FlowingIdeas\\FlowingIdeasTest\\FlowingIdeasTest.csproj": {
+              "projectPath": "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas\\FlowingIdeas\\FlowingIdeas\\FlowingIdeasTest\\FlowingIdeasTest.csproj"
             }
           }
         }
