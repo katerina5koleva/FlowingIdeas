@@ -166,3 +166,12 @@ C:\Users\katik\OneDrive\Работен плот\FlowingIdeas\FlowingIdeas\Flowin
 C:\Users\katik\OneDrive\Работен плот\FlowingIdeas\FlowingIdeas\FlowingIdeas\obj\Debug\net8.0-windows\FlowingIdeas.pdb
 C:\Users\katik\OneDrive\Работен плот\FlowingIdeas\FlowingIdeas\FlowingIdeas\obj\Debug\net8.0-windows\FlowingIdeas.genruntimeconfig.cache
 C:\Users\katik\OneDrive\Работен плот\FlowingIdeas\FlowingIdeas\FlowingIdeas\obj\Debug\net8.0-windows\ref\FlowingIdeas.dll
+C:\Users\katik\OneDrive\Работен плот\FlowingIdeas\FlowingIdeas\FlowingIdeas\FlowingIdeas\obj\Debug\net8.0-windows\FlowingIdeas.csproj.AssemblyReference.cache
+C:\Users\katik\OneDrive\Работен плот\FlowingIdeas\FlowingIdeas\FlowingIdeas\FlowingIdeas\obj\Debug\net8.0-windows\FlowingIdeas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katik\OneDrive\Работен плот\FlowingIdeas\FlowingIdeas\FlowingIdeas\FlowingIdeas\obj\Debug\net8.0-windows\FlowingIdeas.AssemblyInfoInputs.cache
+C:\Users\katik\OneDrive\Работен плот\FlowingIdeas\FlowingIdeas\FlowingIdeas\FlowingIdeas\obj\Debug\net8.0-windows\FlowingIdeas.AssemblyInfo.cs
+C:\Users\katik\OneDrive\Работен плот\FlowingIdeas\FlowingIdeas\FlowingIdeas\FlowingIdeas\obj\Debug\net8.0-windows\FlowingIdeas.csproj.CoreCompileInputs.cache
+C:\Users\katik\OneDrive\Работен плот\FlowingIdeas\FlowingIdeas\FlowingIdeas\FlowingIdeas\obj\Debug\net8.0-windows\FlowingIdeas.sourcelink.json
+C:\Users\katik\OneDrive\Работен плот\FlowingIdeas\FlowingIdeas\FlowingIdeas\FlowingIdeas\obj\Debug\net8.0-windows\FlowingIdeas.dll
+C:\Users\katik\OneDrive\Работен плот\FlowingIdeas\FlowingIdeas\FlowingIdeas\FlowingIdeas\obj\Debug\net8.0-windows\refint\FlowingIdeas.dll
+C:\Users\katik\OneDrive\Работен плот\FlowingIdeas\FlowingIdeas\FlowingIdeas\FlowingIdeas\obj\Debug\net8.0-windows\FlowingIdeas.pdb
