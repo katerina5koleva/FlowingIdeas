@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 using FlowingIdeas.Data.Models;
 namespace FlowingIdeas.Data
 {
+	/// <summary>
+	/// This class maps the classes to tables in the database.
+	/// </summary>
 	internal class UserIdeaContext : DbContext
 	{
 		public UserIdeaContext() : base()
@@ -19,3 +22,4 @@ namespace FlowingIdeas.Data
 		public DbSet<WorkIdea> WorkIdeas { get; }
 	}
 }
+//attempt
