@@ -17,4 +17,8 @@ namespace FlowingIdeas
             Application.Run(new FlowingIdeasForm());
         }
     }
+<<<<<<< Updated upstream
 }//Test :)
+=======
+}
+>>>>>>> Stashed changes

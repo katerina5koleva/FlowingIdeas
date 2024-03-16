@@ -6,7 +6,32 @@ using System.Threading.Tasks;
 
 namespace FlowingIdeas.Data.Models
 {
-    internal class WorkIdea : IIdea
+    internal class WorkIdea : Idea
     {
+        private string textOfWorkIdea;
+
+
+        public override string TextOfIdea
+        {
+            get
+            {
+                return textOfWorkIdea;
+            }
+            set
+            {
+                if (textOfWorkIdea.Length < 3)
+                {
+                    throw new ArgumentException("Your work idea should be longer!!!");
+                }
+                else if (textOfWorkIdea.Length > 400)
+                {
+                    throw new ArgumentException("Please, write a shorter work idea!");
+                }
+                else
+                {
+                    this.textOfWorkIdea = value;
+                }
+            }
+        }
     }
 }
