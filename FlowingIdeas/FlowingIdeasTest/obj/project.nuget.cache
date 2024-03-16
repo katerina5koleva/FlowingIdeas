@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1R/bwqzcuKlAwrjRmG+Q/aTR997kLwszEitkN85oeGThFNlCeTZt1ZBz4B78LhGU8ht5VShkzFUaORYeCC3G5A==",
+  "dgSpecHash": "kVJSEwy4kUQs9QUtI8LJZNGgYdDaStNdznD9mrK6V5aheVTglcyG5j0mi8Di+99+t74h4v/bv7mlBRXZkVNSZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas\\FlowingIdeas\\FlowingIdeas\\FlowingIdeasTest\\FlowingIdeasTest.csproj",
+  "projectFilePath": "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas\\FlowingIdeas\\FlowingIdeasTest\\FlowingIdeasTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\katik\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\katik\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas\\FlowingIdeas\\FlowingIdeas\\FlowingIdeasTest\\FlowingIdeasTest.csproj": {}
+    "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas\\FlowingIdeas\\FlowingIdeasTest\\FlowingIdeasTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas\\FlowingIdeas\\FlowingIdeas\\FlowingIdeasTest\\FlowingIdeasTest.csproj": {
+    "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas\\FlowingIdeas\\FlowingIdeasTest\\FlowingIdeasTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas\\FlowingIdeas\\FlowingIdeas\\FlowingIdeasTest\\FlowingIdeasTest.csproj",
+        "projectUniqueName": "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas\\FlowingIdeas\\FlowingIdeasTest\\FlowingIdeasTest.csproj",
         "projectName": "FlowingIdeasTest",
-        "projectPath": "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas\\FlowingIdeas\\FlowingIdeas\\FlowingIdeasTest\\FlowingIdeasTest.csproj",
+        "projectPath": "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas\\FlowingIdeas\\FlowingIdeasTest\\FlowingIdeasTest.csproj",
         "packagesPath": "C:\\Users\\katik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas\\FlowingIdeas\\FlowingIdeas\\FlowingIdeasTest\\obj\\",
+        "outputPath": "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas\\FlowingIdeas\\FlowingIdeasTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\katik\\AppData\\Roaming\\NuGet\\NuGet.Config",
