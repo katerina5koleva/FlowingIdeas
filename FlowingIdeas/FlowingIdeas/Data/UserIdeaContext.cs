@@ -13,6 +13,9 @@ namespace FlowingIdeas.Data
 		{
 
 		}
-		public DbSet<ArtisticIdea> ArtisticIdeas { get; set; }
+		public DbSet<ArtisticIdea> ArtisticIdeas { get; }
+		public DbSet<PhilosophicalIdea> PhilosophicalIdeas { get; }
+		public DbSet<User> Users { get; }
+		public DbSet<WorkIdea> WorkIdeas { get; }
 	}
 }
